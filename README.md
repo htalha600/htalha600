@@ -5,16 +5,10 @@
 
 - 📫 How to reach me **htalha600@gmail.com**
 
-<h3 align="left">🚀 Featured Projects
-Blockchain & Web3
-NFT Marketplace: ERC-721/1155 standards, 1M+ daily transactions.
-DeFi Platform: $10M+ TVL, multi-chain integration (Ethereum/Polygon).
-Enterprise & SaaS
-Restaurant Management System: Inventory, POS, Stripe payments.
-HRMS Platform: Automated payroll, travel, and training workflows.
-Social Impact
-Real Estate Network: Multi-role platform for home buyers, lenders, and agents.
-Learning Management System: Course management, assignments, and live chat.:</h3>
+<h3 align="left"><div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>:</h3>
 <p align="left">
 </p>
 
