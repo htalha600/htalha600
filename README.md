@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Talha Hasan</h1>
-<h3 align="center">A Passionate Senior Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Talha Hassan</h1>
+<h3 align="center">Fullstack Dev | React, Next.js, Node.js, TypeScript, PostgreSQL
+
+</h3>
 
 - 📫 How to reach me **htalha600@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🚀 Featured Projects
+Blockchain & Web3
+NFT Marketplace: ERC-721/1155 standards, 1M+ daily transactions.
+DeFi Platform: $10M+ TVL, multi-chain integration (Ethereum/Polygon).
+Enterprise & SaaS
+Restaurant Management System: Inventory, POS, Stripe payments.
+HRMS Platform: Automated payroll, travel, and training workflows.
+Social Impact
+Real Estate Network: Multi-role platform for home buyers, lenders, and agents.
+Learning Management System: Course management, assignments, and live chat.:</h3>
 <p align="left">
 </p>
 
