@@ -31,7 +31,7 @@ role:      Senior Fullstack Engineer · Founding Engineer · AI Engineer
 building:  AI-native products & agentic workflows
 learning:  Deep agent orchestration — Claude Code + MCP
 seeking:   Founding Engineer roles · technical partnerships
-open_to:   [ USA, Canada, Europe, Gulf ]   # remote or relocation
+open_to:   [ USA, Canada, Europe, Gulf ] # remote 
 email:     htalha600@gmail.com
 ```
 
